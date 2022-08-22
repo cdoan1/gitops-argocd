@@ -1,0 +1,29 @@
+apiVersion: user.openshift.io/v1
+kind: Group
+metadata:
+  annotations:
+    group-sync-operator.redhat-cop.io/sync-time: "2022-05-14T12:00:23Z"
+    group-sync-operator.redhat-cop.io/sync.source.host: api.github.com
+    group-sync-operator.redhat-cop.io/sync.source.uid: "4771198"
+  creationTimestamp: "2022-02-04T05:18:32Z"
+  labels:
+    group-sync-operator.redhat-cop.io/sync-provider: github-groupsync_github
+  name: sprint-demo-internal-rw
+  resourceVersion: "769578163"
+  uid: 66181401-acfc-4415-ad54-680d5f05bfb9
+users:
+- matthewcarleton
+- HumairAK
+- ggoksu
+- nicholas-chia
+- 4n4nd
+- giofontana
+- cdoan1
+- HichamMourad
+- smirman
+- heyethankim
+- JustinXHale
+- kjack-redhat
+- subbiswaminathan-rh
+- rgoodson-redhat
+- ginkgo-ocm

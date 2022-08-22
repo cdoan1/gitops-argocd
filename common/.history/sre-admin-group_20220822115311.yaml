@@ -1,0 +1,20 @@
+apiVersion: user.openshift.io/v1
+kind: Group
+metadata:
+  name: acm-sre-group
+users:
+- matthewcarleton
+- HumairAK
+- ggoksu
+- nicholas-chia
+- 4n4nd
+- giofontana
+- cdoan1
+- HichamMourad
+- smirman
+- heyethankim
+- JustinXHale
+- kjack-redhat
+- subbiswaminathan-rh
+- rgoodson-redhat
+- ginkgo-ocm
